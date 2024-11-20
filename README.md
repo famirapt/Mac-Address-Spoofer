@@ -29,7 +29,10 @@ The MAC Spoofer is a Python-based tool that allows users to change the Media Acc
 pip install -r requirements.txt
 
 #Usage
-   '''sudo python3 macspoofer.py
+
+Run the script with root privileges
+
+sudo python3 macspoofer.py 
 
 #How It Works
 
