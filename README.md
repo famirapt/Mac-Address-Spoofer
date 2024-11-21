@@ -25,15 +25,15 @@ This script supports Linux, macOS, and Windows systems, with features like MAC a
 ## Installation
 1. Clone the repository:
    git clone https://github.com/yourusername/Mac-Address-Spoofer.git
-   cd Mac-Address-Spoofer
-2. Install dependencies:
+ cd Mac-Address-Spoofer
+3. Install dependencies:
    pip install cryptography
 
 ---
 
 ## Usage
 Run the Script:
-   python3 Mac_spoofer.py
+- python3 Mac_spoofer.py
 
 ---
 
@@ -61,7 +61,7 @@ This tool is for educational purposes and authorized testing only. Misuse of thi
 
 ## Author
 Abdulkarim Rahmatu
-LinkedIn: linkedin.com/in/fameera-yakeen
+LinkedIn:linkedin.com/in/fameera-yakeen
 Email: famirapt@gmail.com
 
 ---
