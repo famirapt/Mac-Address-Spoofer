@@ -62,7 +62,7 @@ This tool is for educational purposes and authorized testing only. Misuse of thi
 
 ## Author
 - Abdulkarim Rahmatu
-- LinkedIn: linkedin.com/in/fameera-yakeen 
+- LinkedIn: https://linkedin.com/in/fameera-yakeen 
 - Email: famirapt@gmail.com
 
 ---
