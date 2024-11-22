@@ -22,12 +22,13 @@ This script supports Linux, macOS, and Windows systems, with features like MAC a
 
 ---
 
+
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/Mac-Address-Spoofer.git
- cd Mac-Address-Spoofer
+   - git clone https://github.com/yourusername/Mac-Address-Spoofer.git
+   - cd Mac-Address-Spoofer
 3. Install dependencies:
-   pip install cryptography
+   - pip install cryptography
 
 ---
 
@@ -37,7 +38,7 @@ Run the Script:
 
 ---
 
-## Logs
+ ## Logs
 All MAC address changes are logged to an encrypted file named Mac_spoofer_encrypted.txt for auditing purposes. Each entry includes:
 - Timestamp
 - Interface name
@@ -60,9 +61,9 @@ This tool is for educational purposes and authorized testing only. Misuse of thi
 ---
 
 ## Author
-Abdulkarim Rahmatu
-LinkedIn:linkedin.com/in/fameera-yakeen
-Email: famirapt@gmail.com
+- Abdulkarim Rahmatu
+- LinkedIn:linkedin.com/in/fameera-yakeen
+- Email: famirapt@gmail.com
 
 ---
 
